@@ -94,8 +94,6 @@ Here are some of the key projects in my development journey:
 
 ---
 
-<blockquote>
-  <p align="center">
-    <em>"First, solve the problem. Then, write the code."</em> &mdash; John Johnson
-  </p>
-</blockquote>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&amp;author=John%20Johnson" alt="John Johnson Quote" />
+</p>
