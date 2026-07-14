@@ -66,10 +66,10 @@ I am a software developer focused on building scalable web applications and eval
 
 <p align="center">
   <a href="https://github.com/1AbhinavBhardwaj" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=1AbhinavBhardwaj&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=1AbhinavBhardwaj&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/1AbhinavBhardwaj" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AbhinavBhardwaj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=1AbhinavBhardwaj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
   </a>
 </p>
 
