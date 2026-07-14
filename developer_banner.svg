@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" height="100%">
+  <style>
+    :root {
+      --bg: #0d1117;
+      --grid: #1f242c;
+      --text: #c9d1d9;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+      --accent-secondary: #bc8cff;
+      --string: #a5d6ff;
+      --keyword: #ff7b72;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #ffffff;
+        --grid: #f6f8fa;
+        --text: #24292f;
+        --text-muted: #57606a;
+        --accent: #0969da;
+        --accent-secondary: #8250df;
+        --string: #0a3069;
+        --keyword: #cf222e;
+      }
+    }
+    .bg { fill: var(--bg); transition: fill 0.3s ease; }
+    .grid { fill: url(#gridPattern); }
+    .code { font-family: "Fira Code", Menlo, Monaco, Consolas, monospace; font-size: 19px; font-weight: 500; }
+    .kw { fill: var(--keyword); }
+    .str { fill: var(--string); }
+    .mut { fill: var(--text-muted); }
+  </style>
+
+  <defs>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="var(--grid)" stroke-width="0.75" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="100%" height="100%" />
+  <rect class="grid" width="100%" height="100%" />
+
+  <!-- Code/Text Block -->
+  <g transform="translate(80, 50)">
+    <!-- Terminal window header dots -->
+    <circle cx="15" cy="15" r="5" fill="#ff5f56" />
+    <circle cx="30" cy="15" r="5" fill="#ffbd2e" />
+    <circle cx="45" cy="15" r="5" fill="#27c93f" />
+
+    <text class="code" fill="var(--text)">
+      <tspan x="0" y="60"><tspan class="kw">const</tspan> developer = {</tspan>
+      <tspan x="25" dy="28">name: <tspan class="str">"Abhinav Bhardwaj"</tspan>,</tspan>
+      <tspan x="25" dy="28">role: <tspan class="str">"Full Stack Developer"</tspan>,</tspan>
+      <tspan x="25" dy="28">stack: [<tspan class="str">"Java"</tspan>, <tspan class="str">"React"</tspan>, <tspan class="str">"MVC"</tspan>]</tspan>
+      <tspan x="0" dy="28">};</tspan>
+    </text>
+  </g>
+
+  <!-- Decorative Minimalist Graph (Right Side) -->
+  <g transform="translate(860, 50)">
+    <!-- Connected nodes representing software systems -->
+    <circle cx="0" cy="90" r="7" fill="var(--accent)" />
+    <line x1="7" y1="90" x2="93" y2="45" stroke="var(--text-muted)" stroke-dasharray="4" stroke-width="1.2" />
+    <line x1="7" y1="90" x2="93" y2="135" stroke="var(--text-muted)" stroke-dasharray="4" stroke-width="1.2" />
+    
+    <circle cx="100" cy="45" r="5" fill="var(--accent-secondary)" />
+    <line x1="105" y1="45" x2="195" y2="90" stroke="var(--text-muted)" stroke-dasharray="4" stroke-width="1.2" />
+
+    <circle cx="100" cy="135" r="5" fill="var(--accent-secondary)" />
+    <line x1="105" y1="135" x2="195" y2="90" stroke="var(--text-muted)" stroke-dasharray="4" stroke-width="1.2" />
+
+    <circle cx="200" cy="90" r="7" fill="var(--accent)" />
+
+    <!-- Text labels -->
+    <text x="-25" y="94" class="code" font-size="12" fill="var(--text-muted)" text-anchor="end">INPUT</text>
+    <text x="225" y="94" class="code" font-size="12" fill="var(--text-muted)" text-anchor="start">OUTPUT</text>
+  </g>
+</svg>

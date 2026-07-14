@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="profile_banner.png" width="100%" alt="Abhinav Bhardwaj Banner" style="border-radius: 8px;" />
+  <img src="developer_banner.svg" width="100%" alt="Abhinav Bhardwaj Banner" />
 </p>
 
-<h1 align="center">Hi there, I'm Abhinav Bhardwaj! 👋</h1>
-<h3 align="center">Full-Stack Developer & Product Enthusiast</h3>
+<h1 align="center">Abhinav Bhardwaj</h1>
+<p align="center">Full-Stack Developer &amp; Product Analyst</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/abhinavbhardwaj.work" target="_blank">
@@ -23,20 +23,20 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
-I am a software developer with a strong focus on building scalable web applications and evaluating digital products. I combine solid backend foundations with modern frontend technologies and an eye for user experience.
+I am a software developer focused on building scalable web applications and evaluating digital products. I combine solid backend foundations with modern frontend technologies and an eye for user experience.
 
-- 🔭 **Focus:** Currently working on full-stack web applications and UI/UX improvements.
-- ☕ **Core Tech:** Deep diving into **Java (MVC, Spring Boot)** and **React**.
-- 🧠 **Interests:** Algorithms, system design, and software architecture.
-- ⚡ **Fun Fact:** I love dissecting digital products (like my Netflix teardown project!) to explore product strategy and system design.
+- **Current Focus:** Full-stack web applications and UI/UX improvements.
+- **Core Technologies:** Java (MVC, Spring Boot) and React.
+- **Interests:** Algorithms, system design, and software architecture.
+- **Analytical Work:** Deconstructing digital products (such as my Netflix teardown project) to explore product strategy and system design.
 
 ---
 
-## 🛠️ My Tech Stack
+## Tech Stack
 
-### 💻 Languages & Core
+### Languages & Core
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -45,14 +45,14 @@ I am a software developer with a strong focus on building scalable web applicati
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/MVC_Architecture-0073EC?style=for-the-badge&logo=lighthouse&logoColor=white" alt="MVC"/>
 </p>
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -62,7 +62,7 @@ I am a software developer with a strong focus on building scalable web applicati
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/1AbhinavBhardwaj" target="_blank">
@@ -81,16 +81,16 @@ I am a software developer with a strong focus on building scalable web applicati
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 Here are some of the key projects in my development journey:
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🍿 **CS-Netflix** | Product teardown, UX review, and engineering analysis of Netflix. | Product Teardown, UI/UX Analysis | [View Repo](https://github.com/1AbhinavBhardwaj/CS-Netflix) |
-| 💳 **Loan Management** | Modern user dashboard for requesting, tracking, and managing loan applications. | React, JavaScript, CSS | [View Repo](https://github.com/1AbhinavBhardwaj/Loan-management-system) |
-| 📦 **Subscription Box** | Scalable service backend managing subscriber boxes, shipping cycles, and accounts. | Java, MVC, OOP Principles | [View Repo](https://github.com/1AbhinavBhardwaj/Subscription-Box-Service) |
-| 💻 **LeetCode Solutions** | Curated collection of optimized data structure and algorithm solutions. | Java, DSA, Problem Solving | [View Repo](https://github.com/1AbhinavBhardwaj/leetcode) |
+| **CS-Netflix** | Product teardown, UX review, and engineering analysis of Netflix. | Product Teardown, UI/UX Analysis | [View Repo](https://github.com/1AbhinavBhardwaj/CS-Netflix) |
+| **Loan Management** | Modern user dashboard for requesting, tracking, and managing loan applications. | React, JavaScript, CSS | [View Repo](https://github.com/1AbhinavBhardwaj/Loan-management-system) |
+| **Subscription Box** | Scalable service backend managing subscriber boxes, shipping cycles, and accounts. | Java, MVC, OOP Principles | [View Repo](https://github.com/1AbhinavBhardwaj/Subscription-Box-Service) |
+| **LeetCode Solutions** | Curated collection of optimized data structure and algorithm solutions. | Java, DSA, Problem Solving | [View Repo](https://github.com/1AbhinavBhardwaj/leetcode) |
 
 ---
 
