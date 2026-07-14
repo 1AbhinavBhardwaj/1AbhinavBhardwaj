@@ -95,5 +95,5 @@ Here are some of the key projects in my development journey:
 ---
 
 <p align="center">
-  <img src="quote_card.svg" width="800" alt="John Johnson Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Dev Quote" />
 </p>
