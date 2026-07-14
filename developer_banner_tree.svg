@@ -94,7 +94,7 @@
     <line x1="-95" y1="0" x2="-85" y2="0" stroke="#586e75" stroke-width="1" opacity="0.4" />
     <line x1="85" y1="0" x2="95" y2="0" stroke="#586e75" stroke-width="1" opacity="0.4" />
 
-    <!-- Status indicator -->
+    <!-- Status indicator if i am active -->
     <text x="0" y="98" font-family="monospace" font-size="10" font-weight="bold" fill="#5af78e" letter-spacing="2" text-anchor="middle" opacity="0.8">DATA_FLOW_ACTIVE</text>
   </g>
 </svg>
