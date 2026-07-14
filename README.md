@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="developer_banner.svg" width="100%" alt="Abhinav Bhardwaj Banner" />
+  <img src="developer_banner_tree.svg" width="100%" alt="Abhinav Bhardwaj Banner" />
 </p>
 
 <h1 align="center">Abhinav Bhardwaj</h1>
