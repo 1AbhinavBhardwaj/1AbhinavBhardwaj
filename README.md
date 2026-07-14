@@ -94,10 +94,6 @@ Here are some of the key projects in my development journey:
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <em>"First, solve the problem. Then, write the code."</em> &mdash; John Johnson
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="quote_card.svg" width="800" alt="John Johnson Quote" />
+</p>
