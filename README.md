@@ -94,6 +94,8 @@ Here are some of the key projects in my development journey:
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Dev Quote" />
-</p>
+<blockquote>
+  <p align="center">
+    <em>"First, solve the problem. Then, write the code."</em> &mdash; John Johnson
+  </p>
+</blockquote>
